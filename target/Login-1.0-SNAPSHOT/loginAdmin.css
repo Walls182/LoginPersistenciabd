@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 3/11/2022, 3:25:39 p. m.
+    Author     : Walls
+*/
+body{
+    background: black;
+    height: 100vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    color:  tan;
+    margin-top: 15vh !important;
+
+}
+.searchbtn{
+    inline-size: 250px;
+    height: 40px;
+    cursor: pointer;
+    border: solid 2px  blanchedalmond;
+    border-radius: 15%;
+    background-color: tan;
+}
+.con{
+     margin: 40px 1px 50px;
+    position:relative;
+    font-size:45px;
+    top:1%;
+    left:40%;
+    
+    
+}
+.username{
+    inline-size: 240px;
+    color: black;
+    background-color: burlywood;
+    
+    
+}
+.password{
+    inline-size: 240px;
+   color: black;
+    background-color: burlywood;   
+    
+}
